@@ -58,4 +58,5 @@ for line in file_object:
 
     word = get_word(linesplit)
     if has_bee_sound(linesplit):
-        print linesplit
+        #print linesplit
+        print word
